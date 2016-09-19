@@ -27,7 +27,7 @@ days = [1500, # August 20
         -1, # September 15
         -1, # September 16
         -1, # September 17
-        -1, # September 18
+        1361.92, # September 18
         -1, # September 19
         -1, # September 20
         -1, # September 21
