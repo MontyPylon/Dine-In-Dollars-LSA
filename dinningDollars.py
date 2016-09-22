@@ -21,7 +21,7 @@ def sortUsage(days):
     return both
     
 def calculateLSA(xy):
-    #sumX, sumY, sumXY, sumXX = 0
+    global days
     sumX = 0
     sumY = 0
     sumXY = 0
@@ -58,6 +58,11 @@ def calculateLSA(xy):
     
     extraMoney = twoPointsY[1]
     print("\nExtra money: " + str(extraMoney))
+    
+    lastDayAdded = xy[0][len(xy[0])-1]
+    
+    moneyPerDay = days[lastDayAdded] / (len(days) - lastDayAdded)
+    print("\nNeeded Money Per Day: " + str(moneyPerDay))
     
     mb = [twoPointsX, twoPointsY]
     return mb
