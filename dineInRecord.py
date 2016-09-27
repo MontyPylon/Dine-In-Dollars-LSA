@@ -31,12 +31,12 @@ days = [1500, # August 20
         1352.21, # September 19
         1345.89, # September 20
         1333.62, # September 21
-        1326.62, # September 22
-        -1, # September 23
+        1316.63, # September 22
+        1312.70, # September 23
         -1, # September 24
-        -1, # September 25
+        1308.10, # September 25
         -1, # September 26
-        -1, # September 27
+        1303.94, # September 27
         -1, # September 28
         -1, # September 29
         -1, # September 30

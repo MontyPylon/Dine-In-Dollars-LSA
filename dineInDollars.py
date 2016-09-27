@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 import matplotlib.pyplot as plt
-import dinningRecord
+import dineInRecord
 
 days = []
 
 def getDays():
     global days
-    days = dinningRecord.giveDays()
+    days = dineInRecord.giveDays()
 
 def sortUsage(days):
     xAxis = []
