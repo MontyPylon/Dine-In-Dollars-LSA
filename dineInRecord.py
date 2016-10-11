@@ -37,19 +37,19 @@ days = [1500, # August 20
         1308.10, # September 25
         -1, # September 26
         1303.94, # September 27
-        -1, # September 28
-        -1, # September 29
-        -1, # September 30
-        -1, # October 1  -------------------------------------------------------
+        1288.06, # September 28
+        1279.86, # September 29
+        1272.75, # September 30
+        1269.16, # October 1  -------------------------------------------------------
         -1, # October 2
         -1, # October 3
-        -1, # October 4
-        -1, # October 5
-        -1, # October 6
+        1262.69, # October 4
+        1260.55, # October 5
+        1238.12, # October 6
         -1, # October 7
         -1, # October 8
-        -1, # October 9
-        -1, # October 10
+        1233.52, # October 9
+        1227.04, # October 10
         -1, # October 11
         -1, # October 12
         -1, # October 13
