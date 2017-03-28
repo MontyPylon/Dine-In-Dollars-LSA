@@ -74,60 +74,61 @@ days = [0, # August 20
         17.64, # November 1  -------------------------------------------------------
         10.60, # November 2
         11.61, # November 3
-        -1, # November 4
+        4.13, # November 4
         -1, # November 5
-        -1, # November 6
-        -1, # November 7
-        -1, # November 8
-        -1, # November 9
-        -1, # November 10
-        -1, # November 11
+        8.46, # November 6
+        6.54, # November 7
+        7.96, # November 8
+        16.07, # November 9
+        12.06, # November 10
+        4.13, # November 11
         -1, # November 12
         -1, # November 13
-        -1, # November 14
-        -1, # November 15
-        -1, # November 16
-        -1, # November 17
-        -1, # November 18
+        6.32, # November 14
+        6.47, # November 15
+        11.33, # November 16
+        12.93, # November 17
+        4.13, # November 18
         -1, # November 19
-        -1, # November 20
-        -1, # November 21
-        -1, # November 22
+        7.91, # November 20
+        8.41, # November 21
+        8.46, # November 22
         -1, # November 23
         -1, # November 24
         -1, # November 25
         -1, # November 26
         -1, # November 27
-        -1, # November 28
-        -1, # November 29
+        6.32, # November 28
+        7.29, # November 29
         -1, # November 30
         -1, # December 1  -------------------------------------------------------
         -1, # December 2
         -1, # December 3
-        -1, # December 4
-        -1, # December 5
-        -1, # December 6
+        22.07, # December 4
+        7.39, # December 5
+        7.57, # December 6
         -1, # December 7
         -1, # December 8
-        -1, # December 9
+        4.13, # December 9
         -1, # December 10
         -1, # December 11
-        -1, # December 12
+        14.72, # December 12
         -1, # December 13
         -1, # December 14
-        -1, # January 18 -------------------------------------------------------
-        -1, # January 19
+        6.01, # January 17 -------------------------------------------------------
+        23.04, # January 18
+        4.60, # January 19
         -1, # January 20
         -1, # January 21
-        -1, # January 22
-        -1, # January 23
-        -1, # January 24
-        -1, # January 25
-        -1, # January 26
+        6.32, # January 22
+        12.64, # January 23
+        8.31, # January 24
+        11.94, # January 25
+        6.32, # January 26
         -1, # January 27
         -1, # January 28
-        -1, # January 29
-        -1, # January 30
+        11.87, # January 29
+        12.64, # January 30
         -1, # January 31
         -1, # February 1  -------------------------------------------------------
         -1, # February 2
