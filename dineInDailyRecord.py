@@ -129,62 +129,55 @@ days = [0, # August 20
         -1, # January 28
         11.87, # January 29
         12.64, # January 30
-        -1, # January 31
-        -1, # February 1  -------------------------------------------------------
-        -1, # February 2
-        -1, # February 3
-        -1, # February 4
+        9.76, # January 31
+        11.85, # February 1  -------------------------------------------------------
+        14.57, # February 2
+        8.57, # February 3
+        2.14, # February 4
         -1, # February 5
-        -1, # February 6
-        -1, # February 7
-        -1, # February 8
-        -1, # February 9
-        -1, # February 10
-        -1, # February 11
+        15.17, # February 6
+        9.14, # February 7
+        14.89, # February 8
+        8.21, # February 9
+        8.34, # February 10
+        2.14, # February 11
         -1, # February 12
-        -1, # February 13
+        2.14, # February 13
         -1, # February 14
-        -1, # February 15
-        -1, # February 16
+        16.78, # February 15
+        10.50, # February 16
         -1, # February 17
         -1, # February 18
         -1, # February 19
-        -1, # February 20
+        6.58, # February 20
         -1, # February 21
         -1, # February 22
-        -1, # February 23
+        4.13, # February 23
         -1, # February 24
         -1, # February 25
         -1, # February 26
-        -1, # February 27
+        4.94, # February 27
         -1, # February 28
         -1, # March 1  -------------------------------------------------------
-        -1, # March 2
-        -1, # March 3
+        11.56, # March 2
+        2.14, # March 3
         -1, # March 4
         -1, # March 5
-        -1, # March 6
+        10.85, # March 6
         -1, # March 7
-        -1, # March 8
-        -1, # March 9
-        -1, # March 10
+        9.91, # March 8
+        16.88, # March 9
+        4.13, # March 10
         -1, # March 11
         -1, # March 12
-        -1, # March 13
-        -1, # March 14
-        -1, # March 15
-        -1, # March 16
-        -1, # March 17
-        -1, # March 18
-        -1, # March 19
-        -1, # March 20
-        -1, # March 21
-        -1, # March 22
-        -1, # March 23
+        7.19, # March 20
+        4.59, # March 21
+        12.85, # March 22
+        10.62, # March 23
         -1, # March 24
         -1, # March 25
         -1, # March 26
-        -1, # March 27
+        23.34, # March 27
         -1, # March 28
         -1, # March 29
         -1, # March 30
