@@ -52,28 +52,28 @@ days = [0, # August 20
         6.48, # October 10
         12.74, # October 11
         6.42, # October 12
-        0, # October 13
-        6.32, # October 14
-        6.47, # October 15
-        11.33, # October 16
-        12.93, # October 17
-        4.13, # October 18
-        0, # October 19
-        7.91, # October 20
-        8.41, # October 21
-        -1, # October 22
-        -1, # October 23
-        -1, # October 24
-        -1, # October 25
-        -1, # October 26
-        -1, # October 27
-        -1, # October 28
+        10.60, # October 13
+        4.13, # October 14
+        0, # October 15
+        6.47, # October 16
+        0, # October 17
+        8.46, # October 18
+        9.71, # October 19
+        11.50, # October 20
+        5.89, # October 21
+        2.14, # October 22
+        21.61, # October 23
+        14.93, # October 24
+        8.26, # October 25
+        9.33, # October 26
+        16.35, # October 27
+        4.13, # October 28
         -1, # October 29
         -1, # October 30
-        -1, # October 31
-        -1, # November 1  -------------------------------------------------------
-        -1, # November 2
-        -1, # November 3
+        20.36, # October 31
+        17.64, # November 1  -------------------------------------------------------
+        10.60, # November 2
+        11.61, # November 3
         -1, # November 4
         -1, # November 5
         -1, # November 6
