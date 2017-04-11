@@ -178,21 +178,21 @@ days = [0, # August 20
         -1, # March 25
         -1, # March 26
         23.34, # March 27
-        -1, # March 28
-        -1, # March 29
-        -1, # March 30
+        12.79, # March 28
+        5, # March 29
+        9.64, # March 30
         -1, # March 31
         -1, # April 1  -------------------------------------------------------
         -1, # April 2
-        -1, # April 3
-        -1, # April 4
-        -1, # April 5
+        8.19, # April 3
+        10.01, # April 4
+        13.04, # April 5
         -1, # April 6
         -1, # April 7
         -1, # April 8
         -1, # April 9
-        -1, # April 10
-        -1, # April 11
+        12.53, # April 10
+        9.33, # April 11
         -1, # April 12
         -1, # April 13
         -1, # April 14
